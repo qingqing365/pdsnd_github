@@ -3,8 +3,7 @@
 ### Date created
 Include the date you created this project and README file.
 
-### Project Title
-Replace the Project Title
+### Project Title: Explore US Bikeshre data
 
 ### Description
 Describe what your project is about and what it does
